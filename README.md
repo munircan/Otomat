@@ -1,18 +1,14 @@
 # Otomat
 Otamat
 
-Münir Can Civelek  -  170202030	
-Mehmet Anıl Çitçi -   170202084
-
 Bu readme.txt dosyası, Otamat projesine aittir.
 Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 
 1-PAKETİN İÇERİĞİ:
 ----------
-170202030-170202084.txt - Projenin tek dosyaya indirgenmiş salt kaynak kodu.
 readme.txt - Bu dosya.
-Otamat.zip - Projenin kaynak kodunun ve yardımcı dosyaların ziplenmiş hali.
+Otamat.ino - Projenin kaynak kodunun ve yardımcı dosyaların ziplenmiş hali.
 OtamatProjesi.pdf - Proje raporu.
 ----------
 
